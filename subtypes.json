@@ -1,0 +1,81 @@
+{
+    "ring": {
+      "with-stones": {
+        "name": "With Stones",
+        "image": "ring_stones.png",
+        "grams": [2, 3, 5],
+        "makingCharge": 15,
+        "wastage": 7,
+        "tax": 3
+      },
+      "premium-design": {
+        "name": "Premium Design",
+        "image": "ring_premium.png",
+        "grams": [4, 6],
+        "makingCharge": 18,
+        "wastage": 10,
+        "tax": 3
+      },
+      "classic-band": {
+        "name": "Classic Band",
+        "image": "ring_classic.png",
+        "grams": [1, 2],
+        "makingCharge": 12,
+        "wastage": 5,
+        "tax": 3
+      }
+    },
+    "chain": {
+      "thin": {
+        "name": "Thin Chain",
+        "image": "chain_thin.png",
+        "grams": [5, 10],
+        "makingCharge": 10,
+        "wastage": 3,
+        "tax": 3
+      },
+      "heavy": {
+        "name": "Heavy Chain",
+        "image": "chain_heavy.png",
+        "grams": [15, 20],
+        "makingCharge": 12,
+        "wastage": 6,
+        "tax": 3
+      },
+      "twisted": {
+        "name": "Twisted Chain",
+        "image": "chain_twisted.png",
+        "grams": [8, 12],
+        "makingCharge": 14,
+        "wastage": 7,
+        "tax": 3
+      }
+    },
+    "bangle": {
+      "engraved": {
+        "name": "Engraved Bangle",
+        "image": "bangle_engraved.png",
+        "grams": [6, 8],
+        "makingCharge": 16,
+        "wastage": 8,
+        "tax": 3
+      },
+      "polished": {
+        "name": "Polished Bangle",
+        "image": "bangle_polished.png",
+        "grams": [5, 7],
+        "makingCharge": 13,
+        "wastage": 6,
+        "tax": 3
+      },
+      "diamond-cut": {
+        "name": "Diamond Cut Bangle",
+        "image": "bangle_diamondcut.png",
+        "grams": [10, 12],
+        "makingCharge": 20,
+        "wastage": 9,
+        "tax": 3
+      }
+    }
+  }
+  
